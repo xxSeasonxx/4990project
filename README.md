@@ -1,7 +1,7 @@
 # Used Car Price Predicting Website Application (UCPPWA)
 ### APMAE4990 Final Proposal 
 ## Fanchen Zeng (fz2241)    Season Yang ()    Yizhe Gao ()
-## Summary 
+
 ## Introduction
 
 There has been over 10,000 used cars searched within a 75-mile radius from major cities, including Chicago, Washington, New York, Seattle, etc. It is always a hard problem for the owners to price their used cars given the fact that there is a wide distribution of prices for cars with different conditions. They could guess but this is not an efficient way to maximize money for their cars. 
@@ -14,6 +14,7 @@ In this project, we will be using the data to create a web app that could help c
 2. Used car potential buyers in New York area who want to purchase but do not know which is the optimal used car based on specific conditions of buyers
 
 3. Practitioners who want to analyse the used car saling market
+
 ## Component
 
 ### 1. Prodicting System
@@ -51,6 +52,17 @@ To better serve the potential buyers who has not decided which one to buy, our t
 Inspired by the demonstration of building classification in New York and San Francisco. Our team decides to create a website application to demonstrate our dataset and our systems in UPCCWA
 
 ## Interface
+
+## Feasibility
+
+1. Prodicting System which uses Ridge Regression and Random Forests Regression can be easily solved and improved by tuning the alpha in Ridge and tree parameters in Random Forests. By now we have achieved about 0.6 R Square for Ridge and more than 0.8 R Square for Random Forests in testing dataset
+
+2. The two key parts in Feedback Learning System are receiving feedback and using updated dataset to re-learn. We will design the web application to be able to receive and store inputs from the users as new data and the algorithms will run automatically after a given period of time to learn the updated data to update the coefficients in Ridge and the decision tree in Random Forests.
+
+3. Although the popular algorithm of recommendation system is Collaborative Filtering which is mainly used in Facebook, Netflix and so on, kNN is also applied for basic recommendation system and own a good performance. Thus, applying and modifying the kNN to our Recommendation System are feasible
+
+4. A large number of APIs and open code for website are the useful tools for us to build the Visualization Website Application
+
 ## Reference
 
 1. [Ridge Regression](https://github.com/Columbia-Intro-Data-Science/APMAE4990-/blob/master/lectures/Lecture%203%20-%20Model%20Selection%2C%20Evaluation%20and%20Regularization.pdf)
