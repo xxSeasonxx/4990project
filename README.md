@@ -22,7 +22,7 @@ Our used car price predicting team decide to use parametric regression (Linear R
 
 Ridge Regression:
 
-<p align="center"><img src="picture/Ridge.png" height="200"></p>
+<p align="center"><img src="picture/Ridge.png" height="100"></p>
 
 Random Forests Regression:
 
@@ -36,14 +36,14 @@ The feedback learning system collects real time data on used car price from the 
 
 Not only updata the dataset in UCPPWA, our time decide to give reasonable weight to the new data, where the weight can be learned from empirical market research or regression result of existed dataset with time series
 
-<img src="picture/weighted sample.png">
+<p align="center"><img src="picture/weighted sample.png"></p>
 <h6 align="center">Fig.1. Weighted Sample</h6> 
 
 ### 3. Recommendation System
 
 To better serve the potential buyers who has not decided which one to buy, our team decides to use PCA to reduct the dimension as well as extract features and k-nearest neighbors algorithm to predict where is the optimal range of used cars the potential may tend to purchase. 
 
-<img src="picture/KNN.png">
+<p align="center"><img src="picture/KNN.png"></p>
 <h6 align="center">Fig.2. kNN Algorithm </h6> 
 
 ### 4. Visualization Website Application
