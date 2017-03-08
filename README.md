@@ -26,7 +26,7 @@ Ridge Regression:
 
 Random Forests Regression:
 
-<img src="picture/Random Forests2.png" width="200" height="200" align="center">
+<div style="text-align:center"><img src="picture/Random Forests2.png" width="200" height="200"></div>
 
 ### 2. Feedback Learning System
 
