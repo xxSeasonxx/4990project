@@ -22,11 +22,11 @@ Our used car price predicting team decide to use parametric regression (Linear R
 
 Ridge Regression:
 
-<p align="center"><img src="picture/Ridge.png" height="100"></p>
+<p align="center"><img src="picture/Ridge.png">
 
 Random Forests Regression:
 
-<p align="center"><img src="picture/Random Forests2.png" width="200" height="200"></p>
+<img src="picture/Random Forests2.png" width="200" height="200"></p>
 
 ### 2. Feedback Learning System
 
