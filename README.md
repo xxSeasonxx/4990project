@@ -44,7 +44,7 @@ Not only updata the dataset in UCPPWA, our time decide to give reasonable weight
 
 To better serve the potential buyers who has not decided which one to buy, our team decides to use PCA to reduct the dimension as well as extract features and k-nearest neighbors algorithm to predict where is the optimal range of used cars the potential may tend to purchase. 
 
-<p align="center"><img src="picture/KNN.png"></p>
+<p align="center"><img src="picture/KNN.png" width="200" height="200"></p>
 <h6 align="center">Fig.2. kNN Algorithm </h6> 
 
 ### 4. Visualization Website Application
