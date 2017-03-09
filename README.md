@@ -1,6 +1,6 @@
 # Used Car Price Predicting Website Application (UCPPWA)
 ### APMAE4990 Final Proposal 
-## Fanchen Zeng (fz2241)    Season Yang ()    Yizhe Gao ()
+## Fanchen Zeng (fz2241)    Season Yang (sy2679)    Yizhe Gao (yg2470)
 
 ## Introduction
 
